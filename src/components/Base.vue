@@ -12,7 +12,7 @@
         data() {
             return {
                 params: {
-                    api_key: 'f4c26714ba3f4672f618f331893d064b',
+                    api_key: '',
                     with_genres: 27,
                     vote_average.gte
                 },
